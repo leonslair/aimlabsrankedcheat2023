@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\admin\Desktop\aimlabs_cheat\aimlabs\main.cpp(11,21): warning C4018: '<': signed/unsigned mismatch
+  aimlabs.vcxproj -> C:\Users\admin\Desktop\aimlabs_cheat\aimlabs\Debug\aimlabs.exe
